@@ -1,0 +1,6 @@
+
+const PAGES = [
+
+]
+
+export { PAGES }
